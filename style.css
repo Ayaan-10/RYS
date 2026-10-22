@@ -1,0 +1,32 @@
+body {
+	background-color: darkred;
+	left: auto;
+	-webkit-text-size-adjust: auto;
+	perspective-origin: 0%;
+	src: format();
+	descent-override: 12;
+	
+}
+
+
+img {
+	width: 870px;
+	height: 300px;
+}
+
+h1 {
+font-weight: 100;
+font-variant-ligatures: historical-ligatures;
+font-style: oblique;
+font-stretch: expanded;
+font-optical-sizing: 400000000000000000000000;
+stroke: aqua;
+color: greenyellow;
+}
+
+
+
+//comment = Mods i have done minimiliztic styling
+
+
+
